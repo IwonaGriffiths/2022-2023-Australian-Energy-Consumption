@@ -4,3 +4,5 @@ I created an Australian Energy Consumption Dashboard using publicly available da
 In this project, I analyzed energy consumption by state, identified the industries with the highest energy usage, and examined fuel types. Additionally, I provided an overview of Australia’s energy trade, including imports and exports.
 
 The Australian energy market has significant potential for increased renewable energy adoption in the future. Using historical data, I tracked the year-on-year growth of renewables to highlight this transition.
+
+![image](https://github.com/user-attachments/assets/acc867a3-4415-4092-8bc4-7ac776cb37e6)
